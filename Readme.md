@@ -24,7 +24,7 @@ El proyecto siguió una metodología estructurada para garantizar la calidad y l
 5. Creación de Herramientas Interactivas: Se diseñaron paneles interactivos en Power BI para proporcionar una interfaz amigable para la visualización de los datos.
 6. Documentación: Se generaron informes y documentos en Microsoft Word que resumen el análisis realizado y las conclusiones obtenidas.
 
-## Análisis y Conclusiones
+## Conclusiones
 
 Conclusiones
 El análisis de datos reveló varias tendencias y hallazgos importantes en el campo de las telecomunicaciones. Algunas de las conclusiones clave incluyen:
