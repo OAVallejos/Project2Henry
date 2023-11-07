@@ -7,6 +7,11 @@ Este proyecto se enfoca en el análisis de datos en el campo de las telecomunica
 de datos en Python, el Análisis Exploratorio de Datos (EDA) también en Python utilizando Visual Studio Code, y la creación de paneles de KPI y herramientas interactivas en Power BI. 
 El objetivo principal del proyecto es proporcionar una visión en profundidad de los datos de telecomunicaciones y extraer información valiosa para la toma de decisiones.
 
+## Cuenta con tres archivos
+_ README.md
+_Project2.pdf [Análisis, Desarrollo, Conclusión y Datos Adj]
+_Project2.ipnb [ELT and EDA] 
+
 ## Tecnologías y Herramientas Utilizadas
 
 Visual Studio Code: Se utilizó para realizar la extracción, transformación y análisis de datos.
